@@ -10,7 +10,7 @@
 - `Funcionalidad 4`:  Continua buscando libros
 - `Funcionalidad 5`: Todos los libros se quedan guardados en la base de datos
 
-  \## 🛠️ Informacion
+  ## 🛠️ Describcion
 
 Se presentan todos los libros buscados con su genero, año de lanzamiento, informacion sobre el autor y la editora, y la portada del libro
 
